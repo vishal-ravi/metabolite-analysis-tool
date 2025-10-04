@@ -1,11 +1,11 @@
 """
-Metabolite Mapping Utilities
+Metabolite Mapping Module
 
-This module provides functions for mapping metabolite names based on chemical formula matching.
-It creates lookup tables from reference data and applies them to target datasets.
+This module provides functionality to map chemical formulas to metabolite names
+using a reference dataset.
 
-Author: Metabolite Analysis Tool
-Date: October 2025
+Author: vishal ravi
+Date: October 2024
 """
 
 from typing import Dict, Optional, Tuple, List

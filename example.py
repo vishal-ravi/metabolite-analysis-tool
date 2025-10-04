@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Example Usage Script for Metabolite Analysis Tool
+Example Usage of Metabolite Analysis Tool
 
-This script demonstrates how to use the various modules of the Metabolite Analysis Tool
-for processing SMILES data and mapping metabolite names.
+This script demonstrates how to use the Metabolite Analysis Tool
+to process SMILES strings and map them to metabolite names.
 
-Author: Metabolite Analysis Tool
-Date: October 2025
+Author: vishal ravi
+Date: October 2024
 """
 
 import pandas as pd

@@ -1,11 +1,11 @@
 """
-Excel Processing Utilities
+Excel Processing Module
 
-This module provides functions for reading, processing, and writing Excel files
-with metabolite and molecular formula data.
+This module provides functionality for reading, processing, and writing
+Excel files for metabolite analysis.
 
-Author: Metabolite Analysis Tool
-Date: October 2025
+Author: vishal ravi
+Date: October 2024
 """
 
 from typing import Dict, List, Tuple, Optional

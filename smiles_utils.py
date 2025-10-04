@@ -1,11 +1,11 @@
 """
-SMILES Molecular Formula Utilities
+SMILES Processing Utilities
 
-This module provides functions for converting SMILES (Simplified Molecular Input Line Entry System)
-strings to molecular formulas using RDKit chemistry toolkit.
+This module provides utilities for processing SMILES strings and generating
+molecular formulas using RDKit.
 
-Author: Metabolite Analysis Tool
-Date: October 2025
+Author: vishal ravi
+Date: October 2024
 """
 
 from typing import Optional, Union

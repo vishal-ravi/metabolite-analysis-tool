@@ -5,7 +5,7 @@ Metabolite Analysis Tool - Main Application
 This is the main entry point for the metabolite analysis tool that processes
 SMILES data and maps metabolite names in Excel files.
 
-Author: Metabolite Analysis Tool
+Author: vishal ravi
 Date: October 2025
 
 Usage:

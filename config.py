@@ -1,11 +1,11 @@
 """
-Configuration Settings for Metabolite Analysis Tool
+Configuration Module
 
-This module contains configuration constants and default settings used
-throughout the metabolite analysis application.
+This module contains configuration constants and settings for the
+Metabolite Analysis Tool.
 
-Author: Metabolite Analysis Tool
-Date: October 2025
+Author: vishal ravi
+Date: October 2024
 """
 
 from pathlib import Path
