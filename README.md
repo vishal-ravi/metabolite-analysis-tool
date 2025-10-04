@@ -290,5 +290,5 @@ Potential improvements:
 ---
 
 **Version**: 1.0.0  
-**Author**: Metabolite Analysis Tool  
+**Author**: Vishal Ravi
 **Date**: October 2025
